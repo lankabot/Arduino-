@@ -37,7 +37,7 @@ Kabel jumper
 ## Cara Menggunakan
 
 1. Clone repositori ini:
-git clone https://github.com/username/arduino-dasar.git
+git clone https://github.com/lankabot/arduino-.git
 2. Buka folder proyek yang ingin Anda coba.
 3. Buka file .ino menggunakan Arduino IDE.
 4. Upload ke board Arduino dan lihat hasilnya.
