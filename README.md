@@ -1,25 +1,18 @@
-#Arduino Dasar
+# Arduino Dasar
 
 Repositori ini berisi kumpulan proyek dan contoh kode Arduino dasar yang ditujukan untuk pemula. Cocok untuk yang baru belajar elektronik dan pemrograman mikrocontroller menggunakan Arduino.
 
-##Apa yang Akan Anda Pelajari
+## Apa yang Akan Anda Pelajari
 
 Cara menyalakan dan mematikan LED
-
 Penggunaan push button
-
 Membaca sensor analog (seperti potensiometer)
-
 Menggunakan sensor suhu sederhana
-
 Menampilkan data di LCD
-
 Membaca input digital dan analog
-
 Mengendalikan buzzer atau motor
 
-
-##Daftar Proyek
+## Daftar Proyek
 
 | No. | Proyek              | Deskripsi Singkat                             |
 |-----|---------------------|-----------------------------------------------|
@@ -31,46 +24,28 @@ Mengendalikan buzzer atau motor
 | 6   | Buzzer              | Menghasilkan bunyi dengan buzzer              |
 
 
-##Peralatan yang Dibutuhkan
+## Peralatan yang Dibutuhkan
 
 Arduino Uno (atau board sejenis)
-
 Breadboard
-
 LED, resistor, push button
-
 Potensiometer
-
 Sensor DHT11
-
 LCD 16x2 + modul I2C
-
 Kabel jumper
 
-
-##Cara Menggunakan
+## Cara Menggunakan
 
 1. Clone repositori ini:
-
 git clone https://github.com/username/arduino-dasar.git
-
-
 2. Buka folder proyek yang ingin Anda coba.
-
-
 3. Buka file .ino menggunakan Arduino IDE.
-
-
 4. Upload ke board Arduino dan lihat hasilnya.
 
-
-
-##Persiapan
+## Persiapan
 
 Pastikan Anda sudah menginstal:
-
 Arduino IDE: https://www.arduino.cc/en/software
-
 Library tambahan jika diperlukan (contoh: DHT sensor library, LiquidCrystal_I2C)
 
 
