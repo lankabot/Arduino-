@@ -16,7 +16,7 @@ Mengendalikan buzzer atau motor
 
 | No. | Proyek              | Deskripsi Singkat                             |
 |-----|---------------------|-----------------------------------------------|
-| 1   | LED Blink           | Menyalakan dan mematikan LED dengan delay     |
+| 1   | [LED Blink](https://github.com/lankabot/Arduino-/tree/main/Blink-led)           | Menyalakan dan mematikan LED dengan delay     |
 | 2   | Push Button         | Mengontrol LED menggunakan tombol             |
 | 3   | Potensiometer       | Membaca nilai analog dari potensiometer       |
 | 4   | Sensor Suhu DHT11   | Menampilkan suhu dan kelembaban               |
