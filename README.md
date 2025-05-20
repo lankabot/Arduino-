@@ -47,8 +47,3 @@ git clone https://github.com/lankabot/arduino-.git
 Pastikan Anda sudah menginstal:
 Arduino IDE: https://www.arduino.cc/en/software
 Library tambahan jika diperlukan (contoh: DHT sensor library, LiquidCrystal_I2C)
-
-
-Lisensi
-
-Proyek ini berlisensi MIT. Bebas digunakan dan dimodifikasi untuk keperluan belajar.
